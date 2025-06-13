@@ -13,3 +13,23 @@ This certificate verifies that I have completed the DLI certificates, which focu
 - Profiling and optimizing GPU performance
 - Hands-on lab with Jupyter notebook
 
+## 2. 8051 Microcontroller
+
+** Issued by ** : Bharath Acharya Foundation
+** Date ** July 2019 - January 2020
+
+-The certificate focuses on Assembly Language programming, memory interfacing, I/O interfacing, timers, and serial communication using the 8051 microcontroller
+
+## 3. ARM Microcontroller(ARM7)
+
+** Issued by ** : Bharath Acharya Foundation
+** Date ** July 2019 - January 2020
+
+-The certificate focuses on ARM7 architecture, instruction set, register banks, and practical applications of embedded systems using ARM-based controllers
+
+## 4. Computer Organization and Architecture
+
+** Issued by ** : Bharath Acharya Foundation
+** Date ** July 2019 - January 2020
+
+-The certificate focuses on the internal architecture of computers, instruction execution cycles, memory hierarchy, and CPU design
