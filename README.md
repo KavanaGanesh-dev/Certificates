@@ -1,2 +1,2 @@
 # Certificates
-Showcase of certificates from Training programs and online platforms
+Professional certificates from Training programs and online platforms
